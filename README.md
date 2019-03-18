@@ -13,7 +13,7 @@ It was 3 weeks with a lot of work and dedication after almost 2 months bootcampi
 * APIs used: Paypal & Facebook
 * Deployed at: Surge
 
-* Link to the Ecommerce (mainly in case you want to buy something ;-]): [https:pro-geek.surge.sh]
+* Link to the Ecommerce (mainly in case you want to buy something ;-]): [https://pro-geek.surge.sh]
 * Admin Credentials: login: admin@admin.com.br / password: 123456
 
 * Link to Back-End aplication: [https://pro-geek-ecommerce-api.herokuapp.com/]
