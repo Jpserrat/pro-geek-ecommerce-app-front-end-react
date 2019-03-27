@@ -17,7 +17,7 @@ It was 3 weeks with a lot of work and dedication after almost 2 months bootcampi
 * Admin Credentials: login: admin@admin.com.br / password: 123456
 
 * Link to Back-End aplication: [https://pro-geek-ecommerce-api.herokuapp.com/]
-* Link to Back-end repository: [https://github.com/henriquegmendes/pro-geek-ecommerce-app-backend-api]
+* Link to Back-end repository: [https://github.com/Jpserrat/pro-geek-ecommerce-app-backend-api]
 
 ## Prerequisites
 
